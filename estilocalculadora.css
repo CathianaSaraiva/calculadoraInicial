@@ -1,0 +1,94 @@
+.botao {
+    background: rgb(153, 145, 145);
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(31,31,31);
+    border: none;
+    color: white;
+    padding: 5%;
+    transition: all 500ms ease-in-out;
+    border-radius: 20px;
+    
+}
+
+
+
+.calculadora {
+
+    color: pink;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 30%;
+    position: absolute;
+    background-color:rgb(209 177 176 / 80%);
+    padding:35px;
+
+}
+
+.botao:hover {
+    background-color: rgb(241, 9, 98);
+    color: white;
+
+}
+
+
+.fundo {
+  
+    height: 100vh;
+    color: rgb(55, 51, 51);
+    font-weight:100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(69, 0, 0);
+}
+
+#resultado {
+
+    width: 207px;
+    background-color: white;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: rgb(174, 5, 70);
+    text-align: right;
+    padding: 5px;
+    margin-inline: 0px;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-weight: 900;
+    font: arial;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+ h2 {
+    color:rgba(7, 7, 7, 0.879);
+   font-weight: 500;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   
+ }
+
+ .letrasColor {
+     background-color: rgb(209, 177, 176);
+     text-align: center;
+ }
+
+
+
+ .letra1 { color: rgb(62, 4, 4);}
+ .letra2 { color:rgb(20, 61, 106)}
+ .letra3 { color:rgb(15, 68, 66)}
+ .letra4 { color: rgb(181, 21, 64);}
+ .letra5 { color:rgb(20, 61, 106)}
+ .letra6 { color: rgb(62, 4, 4);}
+ .letra7 { color: rgb(181, 21, 64);}
+ .letra8 { color: rgb(62, 4, 4);}
+ .letra9 { color:rgb(15, 68, 66)}
+ .letra10 {  color: rgb(181, 21, 64);}
